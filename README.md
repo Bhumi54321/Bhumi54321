@@ -46,7 +46,6 @@ struct Developer {
 
 * 📱 Currently working as an **iOS Developer**
 * 🍎 Building applications using **Swift & UIKit**
-* 🤖 Exploring **AI, LLMs & RAG**
 * 🎨 Interested in clean and intuitive mobile UI
 * 🧠 Background in Machine Learning & Deep Learning
 * 🚀 Always learning, building and experimenting
@@ -93,32 +92,8 @@ struct Developer {
 ### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=dark" />
 </p>
-
----
-
-# 📱 Featured iOS Projects
-
-<div align="center">
-
-<a href="https://github.com/Bhumi54321/SpotifyApp-Clone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhumi54321&repo=SpotifyApp-Clone&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/Bhumi54321/E-commerce-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhumi54321&repo=E-commerce-App&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/Bhumi54321/HomeAppUI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhumi54321&repo=HomeAppUI&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/Bhumi54321/Quick-Notes-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhumi54321&repo=Quick-Notes-App&theme=transparent&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
@@ -148,21 +123,6 @@ My focus is on building mobile applications that combine a **smooth native iOS e
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/Bhumi54321">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhumi54321&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=0A84FF&icon_color=0A84FF"/>
-</a>
-
-<a href="https://github.com/Bhumi54321">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumi54321&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0A84FF"/>
-</a>
-
-</div>
-
----
 
 # 🔥 Contribution Streak
 
@@ -171,28 +131,6 @@ My focus is on building mobile applications that combine a **smooth native iOS e
 <a href="https://github.com/Bhumi54321">
 <img src="https://streak-stats.demolab.com/?user=Bhumi54321&theme=transparent&hide_border=true&ring=0A84FF&fire=FF9500&currStreakLabel=0A84FF"/>
 </a>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Bhumi54321">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhumi54321&theme=github-compact&hide_border=true&area=true"/>
-</a>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bhumi54321&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
